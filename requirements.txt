@@ -1,0 +1,5 @@
+# No third-party packages are required to run the application.
+# Python 3.10+ is recommended.
+
+# Optional testing package:
+pytest>=8.0
