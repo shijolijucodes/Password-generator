@@ -84,4 +84,4 @@ encryption.
 
 ## Author
 
-Student Project - Password Generator
+Shijo Liju
